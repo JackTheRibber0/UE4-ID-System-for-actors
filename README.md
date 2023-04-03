@@ -13,7 +13,7 @@ Add all needed headers and cpp files to the project.
 Choose ``GI_ID_System`` as a new Game instance class.
 
 ## Fourth step
-Add an "ID" component to needed actor. You have to set proper ID for an actor from UE4 Editor.
+Add an "ID" component to needed actor. You have to set proper ID for an actor inside of UE4 Editor.
 
 ## TIP:
 Be careful, the system won't let you to create two duplicate IDs. 
